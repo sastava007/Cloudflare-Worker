@@ -1,5 +1,7 @@
 # Cloudflare Workers Internship Application: Full-Stack
 
+## Note: I have removed all the code related to implementations of utility helper functions, because I found a huge traffic to this repository from some unknown sources which indicates to a mass plagiarism. Though, for recruiters I have uploaded it as a seperate zip file.
+
 ## What's this?
 It's a serverless web application built using Cloudflare Workers that distribute the incoming request to one of the two variants of application both of which are equally likely to get selected. Once a user visits a site, then that URL will persists and will be stored as a cookie so that they always see the same variant when they return to the application. This can be verified by clearning the cookies or launching the application in Incognito mode. 
 
