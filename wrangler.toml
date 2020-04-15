@@ -1,0 +1,6 @@
+name = "cf-worker"
+type = "webpack"
+account_id = "d10d4387c07608630372034c034231c4"
+workers_dev = true
+route = ""
+zone_id = ""
